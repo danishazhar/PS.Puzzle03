@@ -1,0 +1,15 @@
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\PS.Puzzle03.Tests.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\PS.Puzzle03.Tests.pdb
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\NSubstitute.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.assert.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.core.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\NSubstitute.xml
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.assert.xml
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.core.pdb
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\bin\Debug\xunit.core.xml
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\obj\Debug\PS.Puzzle03.Tests.dll
+C:\Users\DA\Desktop\PS.Puzzle03\PS.Puzzle03.Tests\obj\Debug\PS.Puzzle03.Tests.pdb
